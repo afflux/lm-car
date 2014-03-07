@@ -1,0 +1,7 @@
+*.bin
+*.swp
+*.img
+.copy
+.disk
+*.o
+kernel
